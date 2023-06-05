@@ -31,7 +31,9 @@
 ##示範
 
 [選擇對戰對象](https://imgur.com/oDQfszE)
+
 [遊玩示範](https://imgur.com/jg9Fawr)
+
 [結束畫面](https://imgur.com/VtwjH0q)
 
 ##貢獻
